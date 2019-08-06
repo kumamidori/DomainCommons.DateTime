@@ -1,0 +1,15 @@
+.DS_Store
+._*
+.~lock.*
+/.buildpath
+/.composer/
+/.idea/
+/.project
+/.settings/
+/build/
+/composer.lock
+/composer.phar
+/nbproject/
+/php-cs-fixer.phar
+/vendor/
+cache.properties
